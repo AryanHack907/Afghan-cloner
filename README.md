@@ -19,7 +19,7 @@
 - `rm -rf Afghan-cloner`
 - `git clone https://github.com/AryanHack907/Afghan-cloner`
 - `cd Afghan-cloner`
-- `python3 FRun.py`
+- `python3 Run.py`
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-Aryan-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+93780860907)
 
