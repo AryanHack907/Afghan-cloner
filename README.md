@@ -16,7 +16,7 @@
 
 # MAIN CAMMANDS
 
-
+- `rm -rf Afghan-cloner`
 - `git clone https://github.com/AryanHack907/Afghan-cloner`
 - `cd Afghan-cloner`
 - `python3 FRun.py`
