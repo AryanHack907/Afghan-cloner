@@ -14,6 +14,6 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from ALEX import FKING
+    from FKING import ALEX
 
     ALEX()
